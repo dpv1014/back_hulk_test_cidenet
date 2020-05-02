@@ -7,7 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
-import com.hulkstore.kardixutils.ErrorInfo;
+import com.hulkstore.kardix.utils.ErrorInfo;
 
 @RestControllerAdvice(basePackages = {"com.hulkstore.kardix.controller"})
 public class GlobalExceptionHandler {

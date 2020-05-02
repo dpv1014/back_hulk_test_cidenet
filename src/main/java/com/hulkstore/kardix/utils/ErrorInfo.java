@@ -1,4 +1,4 @@
-package com.hulkstore.kardixutils;
+package com.hulkstore.kardix.utils;
 
 import java.util.Date;
 
